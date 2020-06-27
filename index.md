@@ -16,7 +16,7 @@ Metaphysical things and their description is "metaphysics"; physical things and 
 
 ## Metaphysics
 
-Stated above, metaphysical things are described only by definitons. Some definitions are clear, some are unclear, some are precise, some are vague. We stated above that we rely on definitions which are the same as what they describe, which means we can't have metaphysics for anything that is indescribable, because we can't describe it with a definition. But why is "a description that is indescribable" not a definition, and what is "a thing and a description that are the same thing"? We describe this using the principle of contradiction.
+Stated above, metaphysical things are described only by definitons. Some definitions are clear, some are unclear, some are precise, some are vague. Stated above, definitions are descripions that are the same as what they describe, which means there aren't metaphysics for anything that is indescribable, because they can't describe it with a definition. But why is "a description that is indescribable" not a definition, and what is "a thing and a description that are the same thing"? We describe this using the principle of contradiction.
 
 ### True-and-not-true
 
