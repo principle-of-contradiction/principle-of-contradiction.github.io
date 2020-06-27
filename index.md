@@ -30,7 +30,7 @@ We have the principle of contradiction, which is the fundamental aspect of a def
 
 ## Physics
 
-[We have described physics](#all_the_things) as "things that are described not-only-by-definition", which contrasts with metaphysics which we described as "things that are described only by definition." The part of the description that is not-only-by-definition is everything else, which we call physics. Unlike metaphysics, physics do not provide us with a definiton for everything. We have no way of knowing if physical things are by definition true or not-true. We find that some physical things are reproducible. We find, perhaps surprisingly, that formal metaphysics describes these reproducible physical things extremely well.
+[Stated above](#every_thing), physics is "things that are described not-only-by-definition", which contrasts with metaphysics which we described as "things that are described only by definition." The part of the description that is not-only-by-definition is everything else, which we call physics. Unlike metaphysics, physics do not provide us with a definiton for everything. We have no way of knowing if physical things are by definition true or not-true. We find that some physical things are reproducible. We find, perhaps surprisingly, that formal metaphysics describes these reproducible physical things extremely well.
 
 ### The metaphysics of physics
 
