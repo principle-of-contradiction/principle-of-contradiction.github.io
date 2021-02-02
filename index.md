@@ -20,7 +20,7 @@ Since everything is a description, several descriptions added together as a whol
 
 A description that does not exclude itself, and will not have other descriptions added to it or taken away from it as parts of itself as a whole, is a "definition". *Our* meaning of definition is an immutable not-self-excluding description.
 
-Now we described what's "identical" and what's "a definition". But why are definitons metaphysical, while other descriptions may not be metaphysical? And what's "metaphysical"?
+We described what's "identical" and what's "a definition". But why are definitons metaphysical, while other descriptions may not be metaphysical? And what's "metaphysical"?
 
 ### Metaphysics
 
