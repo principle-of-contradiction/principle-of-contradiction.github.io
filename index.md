@@ -44,7 +44,7 @@ Are there really no other methods get better knowledge of physical things? There
 
 ## Know all the things
 
-We have found that physics and our metaphysics may describe, through the principle of contradiction and reproducibility, everything that is describable which is not indiscriminate. We have found that without the principle of contradiction metaphysics is indiscriminate, and within it "anything goes".
+We have found that physics and our metaphysics may describe, through the principle of contradiction and reproducibility, everything that is describable which is not indiscriminate. We have found that without the principle of contradiction metaphysics is indiscriminate, and that within indiscriminate metaphysics "anything goes".
 
 We have found that our best physical knowledge of the world comes from formal metaphysical definitions and reproducible physics.
 
