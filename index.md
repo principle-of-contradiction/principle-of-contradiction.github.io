@@ -1,6 +1,6 @@
 # How do we know... anything?
 
-Here's how we know!
+Here's how we know, in under 1000 words! A five-minute read.
 
 ## Every-thing
 
