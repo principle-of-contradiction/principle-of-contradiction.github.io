@@ -16,7 +16,7 @@ Now that everything is a description, we state: a description which is identical
 
 The principle of contradiction is the mutual exclusion of descriptions. "Mutual exclusion" in this sense is for one description or the other or both to be excluded. Excluded from what? Excluded from a description that adds together other descriptions.
 
-Since everything is a description, several descriptions added together as a whole are a description. Within this added-together description, one description may be described to excludes another. When parts of a whole exclude one another, the whole excludes itself: the whole is not whole without the excluded part. Thus we have the principle of identity from the principle of exclusion: a description that does not exclude itself is identical to itself.
+Since everything is a description, several descriptions added together as a whole are a description. Within this added-together description, one description may be described to exclude another. When parts of a whole exclude one another, the whole excludes itself: the whole is not whole without the excluded part. Thus we have the principle of identity from the principle of exclusion: a description that does not exclude itself is identical to itself.
 
 A description that does not exclude itself, and will not have other descriptions added to it or taken away from it as parts of itself as a whole, is a "definition". *Our* meaning of definition is an immutable not-self-excluding description.
 
@@ -26,7 +26,7 @@ We described what's "identical" and what's "a definition". But why are definiton
 
 What is metaphysics? *Our* meaning of metaphysics is any collection of definitions: a collection of immutable descriptions that follows the principle of contradiction.
 
-Different metaphysics may contradict each other; for example, in Euclidean geometry the sum of the angles of a triangle is always equal to the sum of two right angles, but in non-Euclidean geometry this is not always true. These two metaphyhsics, Euclidean geometry and non-Euclidean geometry, exclude one another: "this is always true" excludes "this is not always true". However, each one within itself does not necessarily have any definitions that exclude any other definitions. Each one of them could still be, individualy, *our* type of metaphysics, although when taken together they are not.
+Different metaphysics may contradict each other; for example, in Euclidean geometry the sum of the angles of a triangle is always equal to the sum of two right angles, but in non-Euclidean geometry this is not always true. These two metaphyhsics, Euclidean geometry and non-Euclidean geometry, exclude one another: "this is always true" excludes "this is not always true". However, each one within itself does not necessarily have any definition or definitions that exclude any other definition or definitions. Each one of them could still be, individualy, *our* type of metaphysics, although when taken together they are not.
 
 Other descriptions of metaphysics may not follow the principle of contradiction; they are not metaphysics in the sense used here; they are indiscriminate, and within them "anything goes": there is no principle that sets apart what is or isn't excluded.
 
@@ -34,7 +34,7 @@ For *our* metaphysics, there are descriptions called *algebra*. Algebra is a met
 
 ## Physics
 
-What is physics? It's those descriptions that are "descriptions that are not-only-definitions", which contrasts with metaphysics which is described only with definitions. The part of the description that is not-only-by-definition is everything else, which we call physics. Unlike metaphysics, physics do not provide us with a definiton for everything. We have no way of knowing if physical things by definition exclude other physical things. We may find that some physical things are reproducible. We may find, perhaps surprisingly, that formal metaphysics describes these reproducible physical things extremely well!
+What is physics? It's those descriptions that are "descriptions that are not-only-definitions", which contrasts with metaphysics which is described only with definitions. The part of the description that is not-only-by-definition is everything else, which we call physics. Unlike metaphysics, physics does not provide us with a definiton for everything. We have no way of knowing if physical things by definition exclude other physical things. We may find that some physical things are reproducible. We may find, perhaps surprisingly, that formal metaphysics describes these reproducible physical things extremely well!
 
 ### The metaphysics of physics
 
