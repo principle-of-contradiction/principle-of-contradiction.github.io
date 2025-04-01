@@ -20,7 +20,7 @@ Since everything is a description, several descriptions added together as a whol
 
 A description that does not exclude itself, and will not have other descriptions added to it or taken away from it as parts of itself as a whole, is a "definition". *Our* meaning of definition is an immutable not-self-excluding description.
 
-We described what's "identical" and what's "a definition". But why are definitons metaphysical, while other descriptions may not be metaphysical? And what's "metaphysical"?
+We described what's "identical" and what's "a definition". But why are definitions metaphysical, while other descriptions may not be metaphysical? And what's "metaphysical"?
 
 ### Metaphysics
 
@@ -34,7 +34,7 @@ For *our* metaphysics, there are descriptions called *algebra*. Algebra is a met
 
 ## Physics
 
-What is physics? It's those descriptions that are "descriptions that are not-only-definitions", which contrasts with metaphysics which is described only with definitions. The part of the description that is not-only-by-definition is everything else, which we call physics. Unlike metaphysics, physics does not provide us with a definiton for everything. We have no way of knowing if physical things by definition exclude other physical things. We may find that some physical things are reproducible. We may find, perhaps surprisingly, that formal metaphysics describes these reproducible physical things extremely well!
+What is physics? It's those descriptions that are "descriptions that are not-only-definitions", which contrasts with metaphysics which is described only with definitions. The part of the description that is not-only-by-definition is everything else, which we call physics. Unlike metaphysics, physics does not provide us with a definition for everything. We have no way of knowing if physical things by definition exclude other physical things. We may find that some physical things are reproducible. We may find, perhaps surprisingly, that formal metaphysics describes these reproducible physical things extremely well!
 
 ### The metaphysics of physics
 
